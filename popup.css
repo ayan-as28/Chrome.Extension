@@ -1,0 +1,28 @@
+body{
+    background-image: url('512x512bb.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+h2{
+    font-style: inherit;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.container{
+    width: 300px;
+    text-align: center;
+}
+button{
+    width: 200px;
+    outline: none;
+    border: darkred;
+    border-radius: 2px;
+    padding: 5px;
+    background-color: aqua;
+    font-weight: bold;
+}
+button:hover {
+    background-color: #c6ee00;
+  }
